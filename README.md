@@ -55,11 +55,11 @@ iii. **Enter a name of your choice for the scope and click "Next."**
 
 ![image alt](10.PNG)
 
-iv. Give start IP range and End Ip range 
+iv. **Specify the Start and End IP range for the scope and click "Next."**
 
 ![image alt](11.PNG)
 
-v. In Add Exclusion and Delay in DHCP I'm not going to assign IP 
+v. **In "Add Exclusion and Delay," skip assigning any excluded IPs and proceed by clicking "Next."**
 
 WHat is Add Exclusion and Delay in DHCP??
 
@@ -75,11 +75,11 @@ Lease Duration defines how long a device can use an assigned IP address before i
 
 ![image alt](13.PNG)
 
-vii. Provide the Default gateway
+vii. **Enter the Default Gateway IP address and click "Next."**
 
 ![image alt](14.PNG)
 
-viii. Click next till finish
+viii. **Click "Next" through the remaining steps until you reach "Finish."**
 
 ![image alt](15.PNG)
 
@@ -89,12 +89,12 @@ i. Now lets assign the DHCP IP address to our machine , for this type this comma
 
 ![image alt](16.PNG)
 
-ii. Then go into properties , then click on IPv4 
+ii. **Go to "Network Properties," select your network adapter, then click on "Internet Protocol Version 4 (TCP/IPv4)."**
 
 ![image alt](17.PNG)
 
-iii. Switch it to Obtain IP address automatically , and Obtain DNS Server Address automatically
+iii. **Select "Obtain an IP address automatically" and "Obtain DNS server address automatically," then click "OK."**
 
 ![image alt](18.PNG)
 
-After this , check the status you will see the IP address is dynamically assigned
+**After this, check the network status—you will see that the IP address has been dynamically assigned by the DHCP server.**
